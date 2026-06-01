@@ -83,7 +83,3 @@ PULSE/
 ├── setup_task.ps1                  # Windows 计划任务注册
 └── requirements.txt                # 依赖清单
 ```
-
-## License
-
-MIT
